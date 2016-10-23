@@ -1,2 +1,3 @@
-SM Facebook Comment
+#SM Facebook Comment
+Facebook Comment Plugin for wordpress site.
 
